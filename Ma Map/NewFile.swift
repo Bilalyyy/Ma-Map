@@ -11,7 +11,6 @@ import Foundation
 
 // Now i continue, after i have merge branch to main
 
-
 // now from new branch
 
 // And now, i merging first test branch to main and add this ligne in secondtestbranch
