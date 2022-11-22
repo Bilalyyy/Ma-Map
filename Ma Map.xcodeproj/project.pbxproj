@@ -20,6 +20,8 @@
 		9C2CF63B27806DC7009DE3EF /* CustomAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2CF63A27806DC7009DE3EF /* CustomAnnotationView.swift */; };
 		9C2CF63D27806FD7009DE3EF /* MyMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2CF63C27806FD7009DE3EF /* MyMarkerView.swift */; };
 		9C821456292CD625001406D9 /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C821455292CD625001406D9 /* NewFile.swift */; };
+		9C821458292CD741001406D9 /* SecondNexFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C821457292CD741001406D9 /* SecondNexFile.swift */; };
+		9C82145A292CD7F7001406D9 /* FileTestAfterMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C821459292CD7F7001406D9 /* FileTestAfterMerge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		9C2CF63A27806DC7009DE3EF /* CustomAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnnotationView.swift; sourceTree = "<group>"; };
 		9C2CF63C27806FD7009DE3EF /* MyMarkerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMarkerView.swift; sourceTree = "<group>"; };
 		9C821455292CD625001406D9 /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
+		9C821457292CD741001406D9 /* SecondNexFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNexFile.swift; sourceTree = "<group>"; };
+		9C821459292CD7F7001406D9 /* FileTestAfterMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileTestAfterMerge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				9C2CF62327803D64009DE3EF /* LaunchScreen.storyboard */,
 				9C2CF62627803D64009DE3EF /* Info.plist */,
 				9C821455292CD625001406D9 /* NewFile.swift */,
+				9C821457292CD741001406D9 /* SecondNexFile.swift */,
+				9C821459292CD7F7001406D9 /* FileTestAfterMerge.swift */,
 			);
 			path = "Ma Map";
 			sourceTree = "<group>";
@@ -191,6 +197,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C821458292CD741001406D9 /* SecondNexFile.swift in Sources */,
+				9C82145A292CD7F7001406D9 /* FileTestAfterMerge.swift in Sources */,
 				9C2CF61D27803D63009DE3EF /* MapController.swift in Sources */,
 				9C2CF61927803D63009DE3EF /* AppDelegate.swift in Sources */,
 				9C2CF63327804E0F009DE3EF /* Datas.swift in Sources */,
